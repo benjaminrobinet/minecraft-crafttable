@@ -1,19 +1,9 @@
-# craft-table
+# Craft Table Implementation
 
-## Project setup
-```
-npm install
-```
+##Entrée:
+a,b,c = item
+Taille de la table 3x3
+[[a, b, c], [a, b, c], [a, b, c]]
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##Sortie
+Crafted item
